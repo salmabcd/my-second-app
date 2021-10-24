@@ -30,7 +30,7 @@ function App() {
               </div>
 
               <video width={320} height={240} controls>
-                <source src="/videos/bd-les-profs.mp4" type="video.mp4" />
+                <source src="/videos/profs.mp4" type="video.mp4" />
               </video>
               <br />
               <Button> Regarder </Button>
